@@ -1,2 +1,2 @@
-# jQuery Validation Custom Method
-jQuery validation custom method
+# jQuery Validation With Custom Method
+jQuery validation demo with custom method
