@@ -17,7 +17,8 @@ jQuery validation demo with custom method
     }, "Invalid phone.");
 
 	
-Custom pattern method for Phone	
+Custom pattern method for Name	
+
 	jQuery.validator.addMethod("isname", function(value, element) {
 	        return this.optional(element) || /^[a-zA-Z ]*$/.test(value);
     }, "Invalid name.");
