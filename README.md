@@ -1,2 +1,2 @@
-# jQuery-validation-custom-method
+# jQuery Validation Custom Method
 jQuery validation custom method
